@@ -53,7 +53,7 @@ Exemplo
 ---
 
 ## Tabela Comparativa 
-![tabelacomparativa](table2.png)
+![tabelacomparativa](tabela2.png)
 
 ---
 
