@@ -6,13 +6,13 @@ Este repositório apresenta a resolução do primeiro desafio da disciplina **Fu
 
 A imagem a seguir representa uma linha do tempo com os principais marcos históricos das linguagens de programação. As linguagens estão organizadas por categorias de paradigmas (funcional, lógica, automação, etc.) e por década de criação, permitindo visualizar a progressão e o surgimento de novos estilos e propósitos ao longo do tempo.
 
-> ![Linha do Tempo das Linguagens](./timeline.jpg)
+> ![Linha do Tempo das Linguagens](timeline.jpg)
 
 ## 2. Propósitos e Características das Linguagens
 
 Complementarmente, o segundo quadro apresenta as linguagens agrupadas por domínio de aplicação (automação, web, dados, etc.) com foco em seus propósitos originais e principais características técnicas.
 
-> ![Propósitos das Linguagens](./propositos.jpg)
+> ![Propósitos das Linguagens](propositos.jpg)
 
 ## 3. Considerações Finais
 
