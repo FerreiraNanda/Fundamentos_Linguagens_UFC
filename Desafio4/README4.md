@@ -73,6 +73,9 @@ public class TipoJava {
     }
 }
 ```
+- A tipagem é verificada em tempo de compilação.
+- Atribuições incorretas geram erro antes da execução.
+
 ### C
 ```
 #include <stdio.h>
@@ -87,6 +90,8 @@ int main() {
     return 0;
 }
 ```
+-  C permite conversões implícitas arriscadas, inclusive entre tipos completamente incompatíveis
+-  Pode causar comportamentos indefinidos sem alertas do compilador padrão.
 
 ### Python
 ```
@@ -98,7 +103,9 @@ texto = "10"
 # erro = texto + 5  # TypeError: não é possível somar string com int
 
 ```
-
+- Python detecta erros de tipo em tempo de execução.
+- Não permite operações ambíguas sem conversão explícita
+  
 ---
 
 ##  Conclusão
