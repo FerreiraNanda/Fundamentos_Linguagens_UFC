@@ -41,7 +41,7 @@ repetir 2 vezes {
     virar direita;
 }
 ```
-(`Table 1.png`)
+![tabela-analise-sintatica](Table1.png)
 
 ## 📘 Semântica
 
