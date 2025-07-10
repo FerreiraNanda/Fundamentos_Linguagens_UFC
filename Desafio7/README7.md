@@ -52,7 +52,7 @@ Para `fatorial(4)`, a execução se desdobra da seguinte forma:
 ## Pilha de chamadas
 ![pilha-chamadas](tabela4.png)
 
-###Representação gráfica
+### Representação gráfica
 ![pilha-chamadas](pilha_chamadas.png)
 
 ---
