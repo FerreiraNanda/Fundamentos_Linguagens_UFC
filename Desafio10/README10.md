@@ -22,7 +22,7 @@ Este desafio propõe a análise comparativa entre dois modelos de gerenciamento 
 int main() {
     int *numeros = (int*) malloc(3 * sizeof(int));
     if (numeros == NULL) {
-        printf("Erro de alocação.\n");
+        printf("Erro de alocacao.\n");
         return 1;
     }
 
@@ -32,7 +32,7 @@ int main() {
 
     printf("Valores: %d, %d, %d\n", numeros[0], numeros[1], numeros[2]);
 
-    free(numeros); // Liberação manual
+    free(numeros); // Liberacaoo manual
     return 0;
 }
 ```
@@ -40,7 +40,7 @@ int main() {
 ### Java – Gerenciamento Automático
 
 ```java
-public class MemoriaJava {
+public class Memory {
     public static void main(String[] args) {
         int[] numeros = new int[3];
         numeros[0] = 10;
@@ -49,7 +49,7 @@ public class MemoriaJava {
 
         System.out.println("Valores: " + numeros[0] + ", " + numeros[1] + ", " + numeros[2]);
 
-        // Não há necessidade de liberar manualmente
+        // nao ha necessidade de liberar manualmente
     }
 }
 ```
