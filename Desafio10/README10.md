@@ -8,7 +8,7 @@ Este desafio propõe a análise comparativa entre dois modelos de gerenciamento 
 ---
 
 ##  Tabela Comparativa
-![tabela-comparativa](tabela5.png)
+![tabela-comparativa](tabela6.png)
 ---
 
 ## Exemplo de implementação
