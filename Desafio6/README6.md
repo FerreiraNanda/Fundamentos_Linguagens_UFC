@@ -44,7 +44,7 @@ int main() {
 
 ## `alterarValor.py`
 
-```
+```java
 def alterar_por_valor(x):
     x = 100
     print("Alterar por valor x alterado para", x)
@@ -68,7 +68,7 @@ print("Depois de alterar_por_referencia, b =", b)
 
 ## `alterarValor.java`
 
-```
+```python
 import java.util.*;
 
 class SubprogramasJava {
