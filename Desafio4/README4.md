@@ -33,11 +33,11 @@ Refere-se à necessidade (ou não) de declarar explicitamente o tipo de uma vari
 
 Exemplo
 
-```
+```c
 int x = 5; \\declaração de tipo obrigatória
 ```
 
-```
+```c
 x = 5 \\ a partir dessa declaração, a lingaugem deduz o tipo
 ```
 ### Conversões Implicítas
@@ -45,7 +45,7 @@ x = 5 \\ a partir dessa declaração, a lingaugem deduz o tipo
 São as transformações automáticas que a linguagem faz entre tipos diferentes durante a execução de uma operação.
 
 Exemplo
-```
+```c
   int x = 1;
   int y = 5 //exemplo de declaraçaõ explícita
   float resultado = y/x; //exemplo de declaração implicita, conversão de int para float
@@ -61,7 +61,7 @@ Exemplo
 
 ### Java
 
-```
+```java
 public class TipoJava {
     public static void main(String[] args) {
         int numero = 10;
@@ -77,7 +77,7 @@ public class TipoJava {
 - Atribuições incorretas geram erro antes da execução.
 
 ### C
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -94,7 +94,7 @@ int main() {
 -  Pode causar comportamentos indefinidos sem alertas do compilador padrão.
 
 ### Python
-```
+```python
 numero = 10
 resultado = numero / 3  # Resultado: 3.333..., divisão real
 print(resultado)
