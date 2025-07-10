@@ -59,7 +59,7 @@ int main() {
 }
 ```
 ## Estruturas Utilizadas
-![tabela_estruturas](tabela3.png)
+![tabela_estruturas](tabela2.png)
 
 ## Conclusão 
 O código construído usa estruturas de controle e nos mostra como são essenciais para definir o fluxo lógico de execução de um programa. Através do uso de laços, decisões condicionais e comandos de fluxo, é possível implementar interações dinâmicas e comportamentos realistas, mesmo em programas simples como um jogo de adivinhação.
