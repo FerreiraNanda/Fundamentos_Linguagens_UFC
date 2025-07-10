@@ -41,8 +41,70 @@ int main() {
 }
 
 ```
+
+## `alterarValor.py`
+
+```
+def alterar_por_valor(x):
+    x = 100
+    print("Alterar por valor x alterado para", x)
+
+def alterar_por_referencia(x):
+    x[0] = 100
+    print("Alterar por referência x[0] alterado para", x[0])
+
+a = 10
+print("Antes de alterar_por_valor, a =", a)
+alterar_por_valor(a)
+print("Depois de alterar_por_valor, a =", a)
+print()
+
+b = [10]
+print("Antes de alterar_por_referencia, b =", b)
+alterar_por_referencia(b)
+print("Depois de alterar_por_referencia, b =", b)
+
+```
+
+## `alterarValor.java`
+
+```
+import java.util.*;
+
+class SubprogramasJava {
+    public static void alterarPorValor(int x) {
+        x = 100;
+        System.out.println("Alterar por valor x alterado para " + x);
+    }
+
+    public static void alterarPorReferencia(int[] x) {
+        x[0] = 100;
+        System.out.println("Alterar por referencia x[0] alterado para " + x[0]);
+    }
+
+    public static void main(String[] args) {
+        int a = 10;
+        int[] b = {10};
+
+        System.out.println("Antes de alterarPorValor, a = " + a);
+        alterarPorValor(a);
+        System.out.println("Depois de alterarPorValor, a = " + a);
+        System.out.println();
+
+        System.out.println("Antes de alterarPorReferencia, b[0] = " + b[0]);
+        alterarPorReferencia(b);
+        System.out.println("Depois de alterarPorReferencia, b[0] = " + b[0]);
+    }
+}
+
+```
+---
+## Comparação
+![tabela-comparacao](tabela3.png)
+---
 ## Conclusão
+Através da comparação entre C, Python e Java, é possível observar como cada linguagem lida com a manipulação de variáveis em subprogramas:
 
-No exemplo apresentado, a variável "a" foi passada por valor, o que significa que uma cópia de seu conteúdo foi enviada para a função alterarPorValor. Assim, qualquer modificação feita dentro da função afeta apenas a cópia, e não a variável original e por isso, a permanece com o valor 10 após a chamada da função.
-
-Já a variável "b" foi passada por referência, por meio de um ponteiro. Nesse caso, a função alterarPorReferencia acessa diretamente o endereço de memória de b, permitindo que sua alteração afete a própria variável original. Como resultado, b passa a valer 100 após a execução da função.
+- C: a manipulação explícita de ponteiros oferece controle direto sobre a memória, tornando clara a distinção entre cópia e referência.
+- Python: o comportamento depende da mutabilidade dos objetos: imutáveis se comportam como por valor; mutáveis, como por referência.
+- Java: tudo é tecnicamente passado por valor, inclusive objetos, mas o valor da referência é copiado, permitindo alterar o conteúdo interno de objetos e arrays.
