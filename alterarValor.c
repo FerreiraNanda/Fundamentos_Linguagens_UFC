@@ -1,15 +1,13 @@
 #include <stdio.h>
 
-// Função que recebe um inteiro por valor
 void alterarPorValor(int x) {
     x = 100;
-    printf("[alterarPorValor] x alterado para %d dentro da função.\n", x);
+    printf("Alterar Por Valor x alterado para %d dentro da função.\n", x);
 }
 
-// Função que recebe um ponteiro (por referência)
 void alterarPorReferencia(int *x) {
     *x = 100;
-    printf("[alterarPorReferencia] x alterado para %d dentro da função.\n", *x);
+    printf("Alterar por referencia x alterado para %d dentro da função.\n", *x);
 }
 
 int main() {
@@ -26,4 +24,3 @@ int main() {
 
     return 0;
 }
-
