@@ -1,6 +1,7 @@
-#Desafio 9 - Concorrência 
----
+# Desafio 9 - Concorrência 
+
 Foi desenvolvida uma aplicação em Java que simula o funcionamento de dois sensores operando simultaneamente. O objetivo foi demonstrar, de forma prática, o uso de threads, que são estruturas que permitem executar múltiplas tarefas ao mesmo tempo dentro de um mesmo programa.
+
 ---
 ### Estrutura da implementação
 
