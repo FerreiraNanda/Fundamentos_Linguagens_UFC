@@ -14,7 +14,7 @@ Para essa desafio, foi implementado, em linguagem C, um jogo de adivinhação no
 
 ## `jogo_adivinhacao.c`
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
