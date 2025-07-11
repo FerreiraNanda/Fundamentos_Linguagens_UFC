@@ -33,7 +33,7 @@ A análise léxica é a etapa em que o código-fonte é dividido em tokens, ou s
 
 Abaixo está a tabela de tokens gerada a partir do seguinte código RoboBô:
 
-```plaintext
+```
 andar 3;
 virar esquerda;
 repetir 2 vezes {
@@ -58,13 +58,13 @@ Portanto, a sequência completa de comandos é sintaticamente válida na linguag
 A análise semântica garante que os comandos têm um significado lógico coerente com o comportamento esperado do robô. Veja a interpretação de cada instrução do exemplo:
 
 - `andar 3;`  
-  → O robô move-se **3 unidades para frente** na direção atual.
+  O robô move-se **3 unidades para frente** na direção atual.
 
 - `virar esquerda;`  
-  → O robô gira **90° para a esquerda**.
+  O robô gira **90° para a esquerda**.
 
 - `repetir 2 vezes { ... }`  
-  → O bloco de comandos entre `{` e `}` será **executado duas vezes** consecutivas.
+  O bloco de comandos entre `{` e `}` será **executado duas vezes** consecutivas.
 
 ## Conclusão
 
