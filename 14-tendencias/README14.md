@@ -89,5 +89,9 @@ Por outro lado, sua integração fluida com o legado Java, o apoio da Google e o
 Kotlin é uma linguagem emergente sólida, moderna e eficiente. Embora ainda tenha limitações em algumas áreas, seu crescimento contínuo, suporte empresarial e ecossistema cada vez mais maduro garantem seu destaque como uma tendência duradoura no desenvolvimento de software moderno.
 
 Para saber mais, acesse:
-Documentação Oficial: https://kotlinlang.org/docs/home.html#
+- Documentação Oficial: https://kotlinlang.org/docs/home.html#
+- EBAC: https://ebaconline.com.br/blog/linguagem-de-programacao-kotlin
+- Medium: https://medium.com/@omarsahl/kotlin-language-features-from-kotlinconf-2024-whats-new-and-what-s-next-a4668eae5e9d
+- código Fácil: https://codigofacil.com.br/kotlin-vs-java/
+- 
 
