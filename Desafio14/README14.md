@@ -26,9 +26,13 @@ Além do ecossistema Android, Kotlin expandiu seu alcance para backend (Spring B
 
 ```kotlin
 fun main() {
-    val nomes = listOf("Alice", "Bruno", "Carla")
-    nomes.forEach { println("Olá, $it!") }
+    val nomes = listOf("Fernanda", "Bruno", "Mikael")
+
+    for (nome in nomes) {
+        println("Olá, $nome!")
+    }
 }
+
 ```
 
 ---
