@@ -93,5 +93,3 @@ Para saber mais, acesse:
 - EBAC: https://ebaconline.com.br/blog/linguagem-de-programacao-kotlin
 - Medium: https://medium.com/@omarsahl/kotlin-language-features-from-kotlinconf-2024-whats-new-and-what-s-next-a4668eae5e9d
 - código Fácil: https://codigofacil.com.br/kotlin-vs-java/
-- 
-
