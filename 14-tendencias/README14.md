@@ -68,7 +68,7 @@ fun main() {
 
 ## Adoção
 
-Kotlin é usada por empresas como Google, Pinterest, Netflix, Uber, Trello e Coursera. É constantemente destacado em rankings como Stack Overflow Developer Survey e JetBrains Developer Ecosystem Report.
+Kotlin é usada por empresas como Google, Pinterest, AWS, Philips, Adobe, Uber, etc. É constantemente destacado em rankings como Stack Overflow Developer Survey e JetBrains Developer Ecosystem Report.
 
 ---
 
