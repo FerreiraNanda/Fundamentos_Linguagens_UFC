@@ -1,6 +1,6 @@
 # Desafio 06 – Subprogramas
 
-Este desafio tem como objetivo demonstrar a diferença entre passagem de parâmetros por valor e por referência em linguagem C. É interessante compreender esse conceitos para, com isso, entender o comportamento de variáveis dentro de funções e como manipular seus valores corretamente.
+Este desafio tem como objetivo demonstrar a diferença entre passagem de parâmetros por valor e por referência em linguagem C, Pytohn e Java. É interessante compreender esse conceitos para, com isso, entender o comportamento de variáveis dentro de funções e como manipular seus valores corretamente.
 
 ---
 
