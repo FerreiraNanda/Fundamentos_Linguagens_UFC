@@ -37,4 +37,5 @@ Este projeto possibilitou aprofundamento em conhecimento abordados na disciplina
 - Aplicações práticas em scripts, automação e programação web;
 - Uma análise crítica sobre linguagens emergentes, como Rust.
 - Cada implementação foi desenvolvida com originalidade e atenção aos detalhes, utilizando linguagens e ferramentas adequadas a cada contexto. O trabalho não apenas consolidou meu entendimento teórico, mas também fortaleceu minhas habilidades práticas na resolução de problemas com diferentes abordagens de programação.
-- Este repositório serve como um portfólio de aprendizagem e um recurso para quem deseja explorar os fundamentos que norteiam as linguagens de programação. Agradeço pela oportunidade de crescimento acadêmico e profissional que este projeto proporcionou.
+
+Este repositório serve como um portfólio de aprendizagem e um recurso para quem deseja explorar os fundamentos que norteiam as linguagens de programação. Agradeço pela oportunidade de crescimento acadêmico e profissional que este projeto proporcionou.
